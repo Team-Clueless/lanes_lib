@@ -1,9 +1,10 @@
+![alt text](https://img.shields.io/badge/status-under%20development-red)
+
 # lanes_lib
 
 ## Description
 
-Lane detection package for clueless Virat.
-
+Package containing computer vision modules for Clueless Virat
 
 ## References
 
